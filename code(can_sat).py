@@ -67,7 +67,3 @@ for i in range(10) :
     time.sleep(5)
 
 
-
-
-#valuesDict = {"PHT values" : phtValues, "Air quality values" : aqValues}
-
