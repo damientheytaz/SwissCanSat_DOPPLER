@@ -147,18 +147,3 @@ for i in range(100):
         with open("/sd/AQ/prt100.txt", "a") as prt100 :
             prt100.write(str(valuesDict["AQ"]["prt100"]) + " , ")
 
-
-## micro SD card ##
-
-# (Instanciation de la carte microSD au sommet du code pour raison technique)
-
-
-with open("/sd/PHT/Pressure.txt", "r") as f:
-    lines = f.readlines()
-    print("Printing lines in file:\n")
-    for line in lines:
-        print(line)
-
-#microSD.print_directory("/sd")
-
-
