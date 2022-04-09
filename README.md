@@ -16,7 +16,7 @@ particles, heavy metals concentrations.
 
 We are a group of five classmates and great friends from the Lycée-Collège des Creusets (Sion,Switzerland). Team DOPPLER consists of :  
 
-Team member             |       Function 
+Team member             |       Role 
 ------------------------|----------------
 Damien Theytaz          |       Main programmer, spokesperson for outreach  
 Fabian Da Cuna          |       Auxiliary programmer  
