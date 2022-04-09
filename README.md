@@ -19,5 +19,5 @@ Jérémy Narayanasamy     -       Welding, paperwork officer
 (PS: Many thanks to Fabien from the HES-Sion for his crucial help and his involvement in the project.)
 
 This repository indexes all the files relevant to our participation in the competition. The code is broken down into two main folders :
-1.  Ground_Station : Code related to the radio station which we will use to recover the data sent from the CanSat.
-2.  Onboard_CanSat : Code related to the mini-satellite per say, it commands the components embedded in the CanSat.
+1. Ground_Station : Code related to the radio station which we will use to recover the data sent from the CanSat.
+2. Onboard_CanSat : Code related to the mini-satellite per say, it commands the components embedded in the CanSat.
