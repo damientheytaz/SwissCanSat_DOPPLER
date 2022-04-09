@@ -24,8 +24,6 @@ microSD = SD(spi,board.GP13)
 
 # Instanciation de la radio :
 rfm9x = adafruit_rfm9x.RFM9x(spi, CS, RESET, RADIO_FREQ_MHZ)
-
-# j ai changé le tx_power de 23 à 13
 rfm9x.tx_power = 13
 
 
@@ -63,9 +61,7 @@ with open("/sd/AQ/prt100.txt", "w") as prt100 :
 
 print("Waiting for packets...")
 
-#### Stopper le code : commenter le while True ####
 while True:
-#for i in range(1):
 
     time.sleep(0.001)
 
@@ -125,19 +121,9 @@ while True:
                 with open("/sd/AQ/prt100.txt", "a") as prt100 :
                     prt100.write(str(valuesDict["AQ"]["prt100"]) + " , ")
 
+                    
 
 
-## micro SD card ##
 
-# (Instanciation de la carte microSD au sommet du code pour raison technique)
-
-
-with open("/sd/PHT/Pressure.txt", "r") as f:
-    lines = f.readlines()
-    print("Printing lines in file:\n")
-    for line in lines:
-        print(line)
-
-#microSD.print_directory("/sd")
 
 
