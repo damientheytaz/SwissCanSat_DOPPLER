@@ -22,7 +22,7 @@ Esteban Rodrigues       -       Welding, 3D modeling, parachute design
 Jérémy Perruchoud       -       Mechanical design, 3D modeling, head of outreach  
 Jérémy Narayanasamy     -       Welding, paperwork officer  
 
-(PS: Many thanks to Fabien from the HES-Sion for his crucial help and his involvement in the project.)
+PS: Many thanks to Fabien from the HES-Sion for his crucial help and his involvement in the project.
 
 ## This repository 
 
