@@ -6,7 +6,7 @@ The CanSat can be broken down in four main components (relevant to the codind as
 
 ## 1. Raspberry Pi Pico
 
-The Raspberry Pi Pico serves as a mini-computer that controls and communicates with the three other components.  
+The Raspberry Pi Pico serves as a mini-computer that controls and communicates with the three other components using the code.py file.  
 https://www.raspberrypi.com/products/raspberry-pi-pico/
 
 ## 2. PHT sensor
