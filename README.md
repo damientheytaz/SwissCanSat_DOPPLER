@@ -24,6 +24,6 @@ Jérémy Narayanasamy     -       Welding, paperwork officer
 
 ## This repository 
 
-This repository indexes all the files relevant to our participation in the competition. The code is broken down into two main folders : <br />
+This repository indexes all the files relevant to our participation in the competition. The code is broken down into two main folders : <br /> <br />
 1. Ground_Station : Code related to the radio station which we will use to recover the data sent from the CanSat. <br /> <br />
 2. Onboard_CanSat : Code related to the mini-satellite per say, it commands the components embedded in the CanSat.
