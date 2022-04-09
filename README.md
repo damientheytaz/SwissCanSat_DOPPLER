@@ -10,12 +10,12 @@ as a secondary mission up to the team's choice.
 As a secondary mission, we choose to take multiple measurements related to the air quality. Including but not restricted to: microparticules, fine 
 particles, heavy metals concentrations. 
 
-We are a group of five classmates and great friends from the Lycée-Collège des Creusets (Sion,Switzerland). Team DOPPLER consists of :
-Damien Theytaz          -       Main programmer, spokesperson for outreach
-Fabian Da Cuna          -       Auxiliary programmer 
-Esteban Rodrigues       -       Welding, 3D modeling, parachute design
-Jérémy Perruchoud       -       Mechanical design, 3D modeling, head of outreach
-Jérémy Narayanasamy     -       Welding, paperwork officer
+We are a group of five classmates and great friends from the Lycée-Collège des Creusets (Sion,Switzerland). Team DOPPLER consists of :  
+Damien Theytaz          -       Main programmer, spokesperson for outreach  
+Fabian Da Cuna          -       Auxiliary programmer  
+Esteban Rodrigues       -       Welding, 3D modeling, parachute design  
+Jérémy Perruchoud       -       Mechanical design, 3D modeling, head of outreach  
+Jérémy Narayanasamy     -       Welding, paperwork officer  
 (PS: Many thanks to Fabien from the HES-Sion for his crucial help and his involvement in the project.)
 
 This repository indexes all the files relevant to our participation in the competition. The code is broken down into two main folders :
