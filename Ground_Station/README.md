@@ -6,7 +6,7 @@ The ground station consists of three main elements.
 
 ## 1. Raspberry Pi Pico
 
-The Raspberry Pi Pico serves as a mini-computer that controls and communicates with the two other components.  
+The Raspberry Pi Pico serves as a mini-computer that controls and communicates with the two other components using the code.py file.  
 https://www.raspberrypi.com/products/raspberry-pi-pico/
 
 ## 2. Radio
