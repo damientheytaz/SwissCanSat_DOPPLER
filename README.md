@@ -16,11 +16,13 @@ particles, heavy metals concentrations.
 
 We are a group of five classmates and great friends from the Lycée-Collège des Creusets (Sion,Switzerland). Team DOPPLER consists of :  
 
-Damien Theytaz          -       Main programmer, spokesperson for outreach  
-Fabian Da Cuna          -       Auxiliary programmer  
-Esteban Rodrigues       -       Welding, 3D modeling, parachute design  
-Jérémy Perruchoud       -       Mechanical design, 3D modeling, head of outreach  
-Jérémy Narayanasamy     -       Welding, paperwork officer  
+Team member             |       Function 
+------------------------|----------------
+Damien Theytaz          |       Main programmer, spokesperson for outreach  
+Fabian Da Cuna          |       Auxiliary programmer  
+Esteban Rodrigues       |       Welding, 3D modeling, parachute design  
+Jérémy Perruchoud       |       Mechanical design, 3D modeling, head of outreach  
+Jérémy Narayanasamy     |       Welding, paperwork officer  
 
 PS: Many thanks to Fabien from the HES-Sion for his crucial help and his involvement in the project.
 
