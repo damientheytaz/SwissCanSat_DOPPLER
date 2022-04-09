@@ -19,7 +19,7 @@ We are a group of five classmates and great friends from the Lycée-Collège des
 Team member             |       Role 
 ------------------------|----------------
 Damien Theytaz          |       Main programmer, spokesperson for outreach  
-Fabian Da Cuna          |       Auxiliary programmer  
+Fabian Da Cuna          |       Auxiliary programmer, electrical design  
 Esteban Rodrigues       |       Welding, 3D modeling, parachute design  
 Jérémy Perruchoud       |       Mechanical design, 3D modeling, head of outreach  
 Jérémy Narayanasamy     |       Welding, paperwork officer  
