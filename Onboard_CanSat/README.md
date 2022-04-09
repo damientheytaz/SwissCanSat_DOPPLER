@@ -1,3 +1,5 @@
+# CanSat (mini-satellite)
+
 The CanSat will take measurements twice a second while in the air. 
 
 The CanSat can be broken down in four main components (relevant to the codind aspects).
